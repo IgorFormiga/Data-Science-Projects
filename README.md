@@ -1,6 +1,6 @@
 # **Data Science Projects: Criação de um modelo de regressão para prever os valores de alugueis**
 
-### **Objetivo:** Criação de um modelo de regressão em Machine Learning para prever os valores de alugueis em 5 cidades brasileiras. O modelo deve ser capaz de estimar os preços das imóveis no Brasil de acordo com suas propriedades (Cidade, área, número de quartos, número de banheiros, vagas de garagem, andar do apartamento, se aceita ou não animais e se é mobiliado ou não).
+### **Objetivo:** Criação de um modelo de regressão em Machine Learning para prever os valores de alugueis em 5 cidades brasileiras. O modelo deve ser capaz de estimar os preços dos imóveis no Brasil de acordo com suas características (Cidade, área, número de quartos, número de banheiros, vagas de garagem, andar do apartamento, se aceita ou não animais e se é mobiliado ou não).
 
 
 ### **Linguagem de programação:** Python
